@@ -12,6 +12,4 @@ This repository contains various reusable resources such as datasets, images, an
 
 You can directly link to raw files using GitHub's raw URLs or clone the repository and access them locally.
 
-Example (CSV file):
-
-https://raw.githubusercontent.com/JohnnyZhou1013/resource_repo/main/data/sample_dataset.csv
+Example (CSV file): `https://raw.githubusercontent.com/JohnnyZhou1013/resource_repo/main/data/mmm_case_2025.csv`
