@@ -6,7 +6,6 @@ This repository contains various reusable resources such as datasets, images, an
 
 - **data/**: Contains sample datasets in formats like CSV, JSON, etc.
 - **images/**: Contains image assets such as logos, charts, or example illustrations.
-- **codes/**: Example scripts to demonstrate how to use the resources in this repo.
 - I may add some other resources later.
 
 ## 🔗 Usage
